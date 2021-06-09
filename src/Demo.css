@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+*{
+    font-family: 'Yatra One', cursive;
+}
+.div1 img{
+    width: 200px;
+    height: 150px;
+}
+.div {
+    
+    margin: auto;
+
+}
