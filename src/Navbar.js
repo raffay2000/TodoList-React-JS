@@ -5,11 +5,11 @@ export default function navbar() {
     return (
         <div>
             <Navbar bg="light" expand="lg">
-  <Navbar.Brand href="/">ToDo-List</Navbar.Brand>
+  <Navbar.Brand href="raffayreactapp">ToDo-List</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav"/>
   <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="mr-auto">
-      <Nav.Link href="/">Home</Nav.Link>
+      <Nav.Link href="raffayreactapp">Home</Nav.Link>
       <Nav.Link href="about">About</Nav.Link>
     </Nav>
     <Form inline>

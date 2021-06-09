@@ -58,7 +58,7 @@ export default function Demo() {
                 <Navbar />
                 <Switch>
                     
-                    <Route exact path="/" render={() => {
+                    <Route exact path="/raffayreactapp" render={() => {
                         return (
                             <>
                                 <Addtodo addtodo={addtodo} />
