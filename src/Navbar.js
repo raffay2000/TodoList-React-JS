@@ -10,7 +10,7 @@ export default function navbar() {
   <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="mr-auto">
       <Nav.Link href="">Home</Nav.Link>
-      <Nav.Link href="raffayreactapp/about">About</Nav.Link>
+      <Nav.Link href="/about">About</Nav.Link>
     </Nav>
     <Form inline>
       <FormControl type="text" placeholder="Search" className="mr-sm-2" />
