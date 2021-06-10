@@ -66,7 +66,7 @@ export default function Demo() {
                             </>)
                     }}>
                     </Route>
-                    <Route exact path="/raffayreactapp/about">
+                    <Route exact path="/about">
                         <About />
                     </Route>
                 </Switch>
