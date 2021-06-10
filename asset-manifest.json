@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/raffayreactapp/static/css/main.77be96fa.chunk.css",
-    "main.js": "/raffayreactapp/static/js/main.586df37e.chunk.js",
-    "main.js.map": "/raffayreactapp/static/js/main.586df37e.chunk.js.map",
+    "main.js": "/raffayreactapp/static/js/main.9100184b.chunk.js",
+    "main.js.map": "/raffayreactapp/static/js/main.9100184b.chunk.js.map",
     "runtime-main.js": "/raffayreactapp/static/js/runtime-main.b1618191.js",
     "runtime-main.js.map": "/raffayreactapp/static/js/runtime-main.b1618191.js.map",
     "static/css/2.b1b02fcb.chunk.css": "/raffayreactapp/static/css/2.b1b02fcb.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.b1b02fcb.chunk.css",
     "static/js/2.daf48223.chunk.js",
     "static/css/main.77be96fa.chunk.css",
-    "static/js/main.586df37e.chunk.js"
+    "static/js/main.9100184b.chunk.js"
   ]
 }
